@@ -1,0 +1,466 @@
+{
+  "categories": [
+    {
+      "title": "Recommended",
+      "type": "text",
+      "items": [
+        {
+          "title": "Pizza",
+          "keyName": "pizza",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/971d80f9ccce0c8eab98014650ee97eb"
+            }
+          ],
+          "localizedTitle": "Pizza"
+        },
+        {
+          "title": "Biryani",
+          "keyName": "biryani",
+          "images": [
+            {
+              "imageUrl": "http://duyt4h9nfnj50.cloudfront.net/search_home/Biryani.jpg"
+            }
+          ],
+          "localizedTitle": "Biryani"
+        },
+        {
+          "title": "South Indian",
+          "keyName": "south_indian",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/58d5b215edd0ca322b7c0f193a495822"
+            }
+          ],
+          "localizedTitle": "South Indian"
+        },
+        {
+          "title": "BBQ",
+          "keyName": "bbq",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/eeb45491416e3becc1961d921e667e5d"
+            }
+          ],
+          "localizedTitle": "BBQ"
+        },
+        {
+          "title": "Juice and Smoothies",
+          "keyName": "juice_and_smoothies",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/9d5cc3244d0b520b45e518966087b756"
+            }
+          ],
+          "localizedTitle": "Juice and smoothies"
+        },
+        {
+          "title": "North Indian",
+          "keyName": "north_indian",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/271de51c4a81a8cc779847ea6534793c"
+            }
+          ],
+          "localizedTitle": "North Indian"
+        },
+        {
+          "title": "Burgers",
+          "keyName": "burger",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/128411a1b54acd3c3c4e5263e7c58e2d"
+            }
+          ],
+          "localizedTitle": "Burger"
+        },
+        {
+          "title": "Fast Food",
+          "keyName": "fast_food",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/f6e04e64903c3207e68c649e24cc2f32"
+            }
+          ],
+          "localizedTitle": "Fast Food"
+        },
+        {
+          "title": "Ice Cream and Frozen Yogurt",
+          "keyName": "ice_cream_and_frozen_yogurt",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/65126c9733e086b7dc71a7ae8ccf0d93"
+            }
+          ],
+          "localizedTitle": "Ice cream and frozen yoghurt"
+        },
+        {
+          "title": "Sandwiches",
+          "keyName": "sandwich",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/83cbb1ab8526068a9bd66aec27a5b0d1"
+            }
+          ],
+          "localizedTitle": "Sandwich"
+        },
+        {
+          "title": "Bakery",
+          "keyName": "bakery",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/d1164714a259d180471e20254b8211f7"
+            }
+          ],
+          "localizedTitle": "Bakery"
+        },
+        {
+          "title": "Street Food",
+          "keyName": "street_food",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/42ce3a81bced6067219d62ca44aec950"
+            }
+          ],
+          "localizedTitle": "Street Food"
+        },
+        {
+          "title": "Desserts",
+          "keyName": "dessert",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/3962b16c350438a56fd7794ba4a15b9c"
+            }
+          ],
+          "localizedTitle": "Desserts"
+        },
+        {
+          "title": "Chinese",
+          "keyName": "chinese",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/a84dc69cee307fba4f559b1e825d8e9e"
+            }
+          ],
+          "localizedTitle": "Chinese"
+        },
+        {
+          "title": "Indian",
+          "keyName": "indian",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/836fa3b8cf098f8cbed99cedc7c06779"
+            }
+          ],
+          "localizedTitle": "Indian"
+        },
+        {
+          "title": "Rolls",
+          "keyName": "rolls",
+          "images": [
+            {
+              "imageUrl": "http://duyt4h9nfnj50.cloudfront.net/search_home/Rolls.jpg"
+            }
+          ],
+          "localizedTitle": "Rolls"
+        },
+        {
+          "title": "Arabian",
+          "keyName": "arabian",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/9ce7071e3e974db190a1cefe9a7b6001"
+            }
+          ],
+          "localizedTitle": "Arabian"
+        },
+        {
+          "title": "Pure Veg",
+          "keyName": "pure_veg",
+          "images": [
+            {
+              "imageUrl": "https://d1a3f4spazzrp4.cloudfront.net/chameleon/cms/uploads/2017/1/30/india_pure_veg_2.jpg"
+            }
+          ],
+          "localizedTitle": "Pure veg"
+        },
+        {
+          "title": "American",
+          "keyName": "american",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/a5aa9bbba0172134449b4ad48611d92b"
+            }
+          ],
+          "localizedTitle": "American"
+        },
+        {
+          "title": "Seafood",
+          "keyName": "seafood",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/998c405357c700f498fc86be08a0b8c2"
+            }
+          ],
+          "localizedTitle": "Seafood"
+        },
+        {
+          "title": "Italian",
+          "keyName": "italian",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/256bc34a3917153511de66ce2510be0a"
+            }
+          ],
+          "localizedTitle": "Italian"
+        },
+        {
+          "title": "Vegetarian Friendly",
+          "keyName": "vegetarian_friendly",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/8b64f4fdc97deb44adc209f90d4ea09d"
+            }
+          ],
+          "localizedTitle": "Vegetarian friendly"
+        },
+        {
+          "title": "Healthy",
+          "keyName": "healthy",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/5bcce6114b9d2d5a39b81e756a250407"
+            }
+          ],
+          "localizedTitle": "Healthy"
+        },
+        {
+          "title": "Breakfast and Brunch",
+          "keyName": "breakfast_and_brunch",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/0bc9ca19a02e3bd03f2395c8cf8a3e0c"
+            }
+          ],
+          "localizedTitle": "Breakfast and brunch"
+        },
+        {
+          "title": "Cafe",
+          "keyName": "cafe",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/9ddae01d317082a5cb3727d945a4880b"
+            }
+          ],
+          "localizedTitle": "Cafe"
+        },
+        {
+          "title": "Indian Curry",
+          "keyName": "indian_curry",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/search_home/IndianCurry.jpg"
+            }
+          ],
+          "localizedTitle": "Indian curry"
+        },
+        {
+          "title": "Middle Eastern",
+          "keyName": "middle_eastern",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/0f8eb25c1202f7fc963d8e2debc202af"
+            }
+          ],
+          "localizedTitle": "Middle Eastern"
+        },
+        {
+          "title": "Pastry",
+          "keyName": "pastry",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/861d2b9d393be89f98be5cb2e7e5845c"
+            }
+          ],
+          "localizedTitle": "Pastry"
+        },
+        {
+          "title": "Burmese",
+          "keyName": "burmese",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/61ce1f27bcc3e7377465822f8084bcbf"
+            }
+          ],
+          "localizedTitle": "Burmese"
+        },
+        {
+          "title": "Asian",
+          "keyName": "asian",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/57864fe0d398139ac2175e7457c63954"
+            }
+          ],
+          "localizedTitle": "Asian"
+        },
+        {
+          "title": "Halal",
+          "keyName": "halal",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/14707f344282ab7f8b5d7c471128d910"
+            }
+          ],
+          "localizedTitle": "Halal"
+        },
+        {
+          "title": "Salads",
+          "keyName": "salad",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/9bc9a3a696651b5e5e777660fa6b0536"
+            }
+          ],
+          "localizedTitle": "Salad"
+        },
+        {
+          "title": "Coffee & Tea",
+          "keyName": "coffee_and_tea",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/3f270d9121923dc25df3a5853bff83a8"
+            }
+          ],
+          "localizedTitle": "Coffee and tea"
+        },
+        {
+          "title": "French",
+          "keyName": "french",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/60ae0adfdc27ba36ac4ebec59ed47474"
+            }
+          ],
+          "localizedTitle": "French"
+        },
+        {
+          "title": "Mexican",
+          "keyName": "mexican",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/7b2a32908c050e6b07252ffcbe651e8c"
+            }
+          ],
+          "localizedTitle": "Mexican"
+        },
+        {
+          "title": "Western",
+          "keyName": "western",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/cfb732b6a1111371079b2fdb73287fcc"
+            }
+          ],
+          "localizedTitle": "Western"
+        },
+        {
+          "title": "Asian Fusion",
+          "keyName": "asian_fusion",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/c2550f8cf42617cb4d0014de7d0cd577"
+            }
+          ],
+          "localizedTitle": "Asian Fusion"
+        },
+        {
+          "title": "South Asian",
+          "keyName": "south_asian",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/8f056997b879abf2e31caa1ca2c2d57e"
+            }
+          ],
+          "localizedTitle": "South Asian"
+        },
+        {
+          "title": "Spanish",
+          "keyName": "spanish",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/4f8afc1b602a71736e43c17e25219e3c"
+            }
+          ],
+          "localizedTitle": "Spanish"
+        }
+      ]
+    },
+    {
+      "title": "Most Popular",
+      "type": "grid",
+      "items": [
+        {
+          "title": "Pizza",
+          "keyName": "pizza",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/971d80f9ccce0c8eab98014650ee97eb"
+            }
+          ],
+          "localizedTitle": "Pizza"
+        },
+        {
+          "title": "Biryani",
+          "keyName": "biryani",
+          "images": [
+            {
+              "imageUrl": "http://duyt4h9nfnj50.cloudfront.net/search_home/Biryani.jpg"
+            }
+          ],
+          "localizedTitle": "Biryani"
+        },
+        {
+          "title": "South Indian",
+          "keyName": "south_indian",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/58d5b215edd0ca322b7c0f193a495822"
+            }
+          ],
+          "localizedTitle": "South Indian"
+        },
+        {
+          "title": "BBQ",
+          "keyName": "bbq",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/eeb45491416e3becc1961d921e667e5d"
+            }
+          ],
+          "localizedTitle": "BBQ"
+        },
+        {
+          "title": "Juice and Smoothies",
+          "keyName": "juice_and_smoothies",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/9d5cc3244d0b520b45e518966087b756"
+            }
+          ],
+          "localizedTitle": "Juice and smoothies"
+        },
+        {
+          "title": "North Indian",
+          "keyName": "north_indian",
+          "images": [
+            {
+              "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/271de51c4a81a8cc779847ea6534793c"
+            }
+          ],
+          "localizedTitle": "North Indian"
+        }
+      ]
+    }
+  ]
+}
