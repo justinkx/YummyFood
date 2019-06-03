@@ -9,3 +9,30 @@
 @import '~@ionic/angular/css/text-alignment.css';
 @import '~@ionic/angular/css/text-transformation.css';
 @import '~@ionic/angular/css/flex-utils.css';
+
+.smallPara {
+    padding: 0px;
+    font-size: 14px;
+    margin: 0px;
+}
+.horizontalPadding {
+    padding: 0px 16px;
+}
+p {
+    font-size: 14px;
+}
+.small {
+    font-size: 12px;
+}
+.medium {
+  font-size: 16px;
+}
+.large {
+    font-size: 20px;
+}
+.xl {
+    font-size: 24px;
+}
+.relative {
+    position: relative;
+}

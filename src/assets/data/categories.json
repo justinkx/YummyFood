@@ -85,14 +85,14 @@
           "localizedTitle": "Fast Food"
         },
         {
-          "title": "Ice Cream and Frozen Yogurt",
+          "title": "Ice Creams",
           "keyName": "ice_cream_and_frozen_yogurt",
           "images": [
             {
               "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/65126c9733e086b7dc71a7ae8ccf0d93"
             }
           ],
-          "localizedTitle": "Ice cream and frozen yoghurt"
+          "localizedTitle": "Ice creams"
         },
         {
           "title": "Sandwiches",
