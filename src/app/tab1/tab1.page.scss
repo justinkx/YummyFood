@@ -21,6 +21,11 @@ ion-toolbar {
 .swiperImage {
   border-radius: 5px;
 }
+ion-img {
+  img {
+    border-radius: 5px;
+  }
+}
 .imageTitle {
   position: absolute;
   bottom: 2px;
@@ -29,8 +34,6 @@ ion-toolbar {
   display: flex;
   justify-content: center;
   align-items: center;
-  border-bottom-left-radius: 5px;
-  border-bottom-right-radius: 5px;
   background: rgba(0,0,0,0.1);
   text-align: center;
   span {

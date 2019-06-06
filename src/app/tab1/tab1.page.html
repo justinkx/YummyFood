@@ -43,7 +43,10 @@
         *ngFor="let item of recomented | search: 'title':searchWord; ">
           <div class="relative">
             <p>{{item.localizedTitle}}</p>
-            <ion-img [src]="item.images[0].imageUrl" ></ion-img>
+            <preload-image  [src]="item.images[0].imageUrl">
+
+            </preload-image>
+           
             <div class="imageTitle">
                 <span>{{item.title}}</span>
               </div>
